@@ -1,0 +1,14 @@
+fn_name: promote_to_externalId
+fn_type: destination
+language: typescript
+debug_port: 5858
+sam_port: 3001
+proxy_port: 3002
+github_deployment: true
+access_token_is_saved: true
+generate_tests: true
+use_ngrok: true
+work_slug: demo-big-data-paris-2020
+work_id: QbN4I3G6tb
+access_token: ME9iTgdnsJ9C3MLtidJL1axmNt1cao2pOOk3YDmOTeA.tjBR34rkeECg7Vsf4YFFIxy-OXTxF8F2RSEPnNJ4kr4
+tp_name: none
